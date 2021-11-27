@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello");
         //EU4 is good at IntelliJ
         //Update
+        //new updates made to commit and push
     }
 }
